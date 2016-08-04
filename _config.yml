@@ -1,28 +1,40 @@
-name: Porto Dental
-favicon: null
 layout_spectrum: 0.4208699055016041
-typography_spectrum: 0.6527204874437302
-cta:
-  domain: null
-  bucket: null
-  version: null
+favicon: null
+name: Porto Dental
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
+  brandStrength: 0.0625
+  lightness: 1
+  saturation: 0.8319149
+  rhythmicContrast: 0.3553191
   brandColors:
     - '#ffffff'
     - '#aa5938'
     - '#c39685'
     - '#edb29d'
     - '#c07258'
-  brandStrength: 0.0625
-  lightness: 0.5
-  saturation: 0.3828854563180357
-  rhythmicContrast: 0.25
-purpose: []
+typography_spectrum: 0.6527204874437302
