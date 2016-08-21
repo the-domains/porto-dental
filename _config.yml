@@ -1,4 +1,16 @@
 layout_spectrum: 0.1404255
+typography_spectrum: 0.45600603078491986
+color:
+  brandStrength: 0.6037848575506359
+  lightness: 0.18913550837896764
+  saturation: 0.2285261859651655
+  rhythmicContrast: 0.18875449569895864
+  brandColors:
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
 favicon: null
 name: Porto Dental
 purpose: []
@@ -26,15 +38,3 @@ cta:
   version: null
   bucket: null
   domain: null
-color:
-  brandStrength: 0.4787234
-  lightness: 1
-  saturation: 0.8319149
-  rhythmicContrast: 0.3553191
-  brandColors:
-    - '#ffffff'
-    - '#aa5938'
-    - '#c39685'
-    - '#edb29d'
-    - '#c07258'
-typography_spectrum: 0.3468085
