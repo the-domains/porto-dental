@@ -1,27 +1,36 @@
-layout_spectrum: 0.1404255
-typography_spectrum: 0.45600603078491986
+typography_spectrum: 0.1898295469582081
 color:
   brandStrength: 0.6037848575506359
-  lightness: 0.18913550837896764
   saturation: 0.2285261859651655
-  rhythmicContrast: 0.18875449569895864
   brandColors:
     - '#E7E8D1'
     - '#D3CEAA'
     - '#FBF7E4'
     - '#424242'
     - '#8E001C'
-favicon: null
-name: Porto Dental
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  lightness: 0.1891355083789676
+  rhythmicContrast: 0.1887544956989586
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.5468085
+analytics:
+  facebook: null
+  google: UA-86376446-1
+  twitter: null
+author:
+  url: 'https://www.portodental.com'
+  name: Copyright 2017
+  email: portodental@icloud.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9297e51-42c9-4c1f-afd1-25ede8cf82fa.jpg
+name: Porto Dental
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       navigable: true
@@ -34,7 +43,11 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  version: null
-  bucket: null
-  domain: null
+title: 'Dental Holiday Packages '
+content: []
+description: "Have you ever heard about the new trend dental holiday ? \_ People are combining vacation with a visit to the dentist. \_Porto Dental in Portugal offers everything from fillings and implants to whitening."
+purpose:
+  - url: 'mailto:felix@portodental.com'
+    type: contact
+    label: Contact me
+github: true
